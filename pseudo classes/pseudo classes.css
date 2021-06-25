@@ -1,0 +1,18 @@
+.content p:first-child{
+    color: red;
+}
+.content p:last-child{
+    color: blue;
+}
+.content p:first-of-type{
+    color: yellow;
+}
+.content p:last-of-type{
+    color: blueviolet;
+}
+.content :only-of-type{
+    color: green;
+}
+div .text1 :not(p){
+    color: red;
+}
