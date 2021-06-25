@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:20px;
+}
+h1{
+    text-decoration:underline overline;
+    text-decoration-color: blue;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 10px;
+}
+p{
+    text-decoration: underline red dashed 2px;
+}
+

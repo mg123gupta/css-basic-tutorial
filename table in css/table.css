@@ -1,0 +1,28 @@
+body{
+    font-family:tahoma;
+}
+h2{
+    text-transform: uppercase;
+}
+table,th ,td{
+    border: 1px solid red;
+}
+table{
+    border-collapse:separate;
+    border-spacing: 5px 10px;
+    empty-cells:hide;
+    
+} 
+/* td{
+    vertical-align: top;
+} */
+th ,td{
+    padding: 5px 10px;
+}
+/* caption{
+    caption-side: bottom;
+} */
+tr:hover{
+    background-color: blue;
+}
+

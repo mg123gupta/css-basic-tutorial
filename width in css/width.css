@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-size:25px;
+}
+.main{
+    width:900px;
+    margin:50px auto 0px auto;
+}
+.main article{
+    width:430px;
+    padding:10px;
+    float:left;
+}
+.main img{
+    width:50%;
+    float:left;
+}

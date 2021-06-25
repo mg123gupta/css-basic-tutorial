@@ -1,0 +1,18 @@
+
+body{
+    font-size:24px;
+}
+.main{
+    margin:20px auto 0px auto;
+    min-width:360px;
+    max-width:880px;
+}
+.main img{
+    width:100%;
+}
+.main article{
+
+    width:100%;
+    padding:10px;
+
+}
