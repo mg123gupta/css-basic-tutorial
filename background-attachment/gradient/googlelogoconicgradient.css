@@ -1,0 +1,26 @@
+body{
+    background-image:url("https://images.unsplash.com/photo-1542281286-9e0a16bb7366?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.box{
+    width:400px;
+    height:400px;
+    margin: 0 auto;
+    
+
+}
+.box h1{
+    width:400px;
+    height:400px;
+    background-image:conic-gradient(from -30deg at 44% 71%,red 0deg, red 90deg,yellow 90deg,yellow 180deg ,blue 180deg,blue 270deg,green 270deg,green 360deg);
+font-size:30em;
+margin-top:20px;
+padding-bottom: 80px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-clip:text;
+-webkit-background-clip: text;
+color:transparent;
+
+
+}

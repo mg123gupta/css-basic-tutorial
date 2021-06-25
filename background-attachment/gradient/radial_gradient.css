@@ -1,0 +1,31 @@
+body{
+    background-image:url("https://images.unsplash.com/photo-1542300058-849d3b08aa0f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1336&q=80");
+    background-size:cover;
+}
+.box{
+    width:800px;
+    height:400px;
+    margin:100px auto 0px auto;
+    border:10px solid black;
+    background-image: url("https://images.unsplash.com/photo-1489641024260-20e5cb3ee4aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=891&q=80");
+    background-image: radial-gradient(circle at top,yellow,red,transparent),
+    radial-gradient(circle at bottom,blue,transparent),
+    radial-gradient(circle at left,green,transparent);
+    background-attachment: local;
+    overflow:auto;
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+}
+.box2{
+    width:800px;
+    height:400px;
+    margin:100px auto 0px auto;
+    border:10px solid black;
+    overflow: auto;
+    background-image: repeating-radial-gradient(closest-side,yellow 10%,red 40%,transparent 10%),
+    radial-gradient(circle at bottom,blue,transparent),
+    radial-gradient(circle at left,green,transparent);
+    background-attachment: local;
+    
+}

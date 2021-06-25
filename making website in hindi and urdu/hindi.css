@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-size: 24px;
+}
+ .a1{
+     background-color: grey;
+     text-align: center;
+     color: white;
+     text-decoration: underline;
+     text-transform: capitalize;
+     font-family: 'Kalam', cursive;
+ }
+ .wrapper img{
+     width:100%;
+     height:400px;
+ }
+ .main h1{
+    font-family: 'Mukta', sans-serif;
+ }
+ 
+h2{
+    font-family: 'Pragati Narrow', sans-serif;
+}
+ 
+ 

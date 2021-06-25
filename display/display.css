@@ -1,0 +1,29 @@
+body{
+    font-family: tahoma;
+    font-size:24px;
+    margin:30px;
+}
+h2{
+    text-transform:capitalize;
+    cursor: crosshair;
+}
+p.one{
+    background-color: yellow;
+    cursor: no-drop;
+    
+}
+p.one span{
+    background-color: blue;
+    display: list-item;
+    /* visibility:hidden; */
+    
+    cursor: wait;
+}
+p.two{
+    background-color:yellowgreen;
+    cursor: copy;
+    /* display: none; */
+    
+
+    
+}

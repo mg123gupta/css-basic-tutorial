@@ -1,0 +1,18 @@
+img{
+    width:200px;
+    height:200px;
+
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.i1, .i2, .i3, .i4 {
+    border: 2px solid red;
+    width:200px;    
+}
+.tone{
+    border: 2px solid red;
+    width:600px; 
+    float: right; 
+}

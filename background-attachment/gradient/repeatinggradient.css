@@ -1,0 +1,18 @@
+body{
+    background-image:url("https://i2.wp.com/digital-photography-school.com/wp-content/uploads/2019/05/joseph-barrientos-49318-unsplash-e1558728034701.jpg?resize=1500%2C1000&ssl=1");
+    background-size:cover;
+}
+.box{
+    width:800px;
+    height:500px;
+    margin:100px auto 0px auto;
+    border:20px solid black;
+    background-image:repeating-linear-gradient(to left,red,yellow 20%,green 10%);
+    
+}
+p,h1{
+    margin:150px 150px 0px 150px;
+    float:left;
+    font-family:tahoma;
+    color:darkblue
+}

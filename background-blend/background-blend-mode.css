@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+}
+.box{
+    width:100vw;
+    height:100vh;
+    background:url("/images/Landscape-Color.jpg"),url("/images/tree-736885__480.jpg"), 
+    linear-gradient(red,yellow,green);
+    background-size:cover;
+    background-blend-mode:hard-light;
+}

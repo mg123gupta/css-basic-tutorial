@@ -1,0 +1,10 @@
+.box{
+    
+    background-image:url(/background-attachment/images/images.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: local;
+}
+p{
+    background-color:yellow; 
+}

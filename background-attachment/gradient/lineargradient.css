@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    
+}
+.box{
+    width:800px;
+    height:500px;
+    margin:100px auto 0px auto;
+    border:10px solid black;
+    background-image: linear-gradient(to left,rgb(156, 36, 82),grey,orange,indigo,violet,red ); 
+
+}
+p,h1{
+    margin:150px 150px 0px 150px;
+    float:left;
+    font-family:tahoma;
+    color:darkblue
+}
+h2{
+    font-size: 30px;
+}

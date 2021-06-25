@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(100,100,100);
+    
+
+    
+}
+.box{
+    width:800px;
+    height:500px;
+    margin:100px auto 0px;
+    border: 10px solid red;
+    background-image:url("images/Landscape-Color.jpg");
+    background-image: no-repeat;
+    background-attachment:local;
+    overflow: auto;
+    
+
+}

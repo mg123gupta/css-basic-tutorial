@@ -1,0 +1,18 @@
+.box{
+    width:400px;
+    height:200px;
+    margin:100px auto 0px auto;
+    padding:50px;
+    /* overflow: auto; */
+    border:5px solid blue;
+    border-radius:20px 40px 60px 80px;
+    /* border-top-left-radius:20px;
+    border-top-right-radius:40px;
+    border-bottom-left-radius:60px;
+    border-bottom-right-radius:80px; */
+
+    background-image: url("https://image.shutterstock.com/image-photo/jasna-lake-beautiful-reflections-mountains-600w-1707906793.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}

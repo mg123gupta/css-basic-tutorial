@@ -1,0 +1,23 @@
+.box{
+    width: 550px;
+    margin:200px auto 0px auto;
+}
+.box h1,p{
+    margin:20px;
+    padding:10px 0px;
+}
+.box h1{
+    border-left:100px solid red;
+    padding:0px 0px 0px 20px;
+    border-right:100px solid red;
+    padding:0px 0px 0px 20px;
+
+}
+.box p{
+    border-left:10px solid red;
+    padding:0px 0px 0px 20px;
+    border-right:10px solid green;
+    padding:0px 0px 0px 20px;
+
+
+}
